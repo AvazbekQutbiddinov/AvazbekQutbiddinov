@@ -1,16 +1,16 @@
-### Hi there 👋
+![rasm](lesson2.jpg)
 
-<!--
-**AvazbekQutbiddinov/AvazbekQutbiddinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QUTBIDDINOV AVAZBEK JALOLIDDIN O\`G`LI**
 
-Here are some ideas to get you started:
+TUG\`ULGAN SANASI: **03.12.2004** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TUG\`ULGAN JOYI: **NAMANGAN VILOYATI  
+TO\`RAQO\`RG\`ON TUMANI**  
+
+BITIRGAN MAKTABI: **TO\`RAQO\`RG\`ON TUMANI  
+4-UMUMIY O\`RTA TA\`LIM MAKTABI**  
+
+XOZIRDA O\`QIYOTGAN OTM:  
+**MUHAMMAD AL-XORAZMIY NOMIDAGI  
+TOSHKENT AXBOROT TEXNOLOGIYALARI  
+UNIVERSITETI**
