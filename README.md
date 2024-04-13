@@ -1,5 +1,3 @@
-![rasm](lesson2.jpg)
-
 **QUTBIDDINOV AVAZBEK JALOLIDDIN O\`G`LI**
 
 TUG\`ULGAN SANASI: **03.12.2004** 
